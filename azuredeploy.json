@@ -23,7 +23,7 @@
         "Standard_ZRS"
       ],
       "metadata": {
-        "description": "Storage Account type"
+        "description": "Storage Account type "
       }
     },
     "location": {
